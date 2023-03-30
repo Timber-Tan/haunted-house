@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.hello {
+  color: red;
+}
+.hello button {
+  margin-left: 20px;
+}
+
